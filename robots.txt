@@ -1,0 +1,1 @@
+Sitemap: https://spacerat.github.io/fastpages/sitemap.xml
